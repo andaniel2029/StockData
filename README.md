@@ -17,4 +17,3 @@ start the flask app.
 If you would like to pull stock data from a cloned version of this project, you will need your own api keys assigned as environment variables
 in the __init__.py and algoPlatform1_project/algo/routes.py files. 
 
-please contact me at jacob.anderson10 (at) gmail with any questions, comments, or suggestions. 
